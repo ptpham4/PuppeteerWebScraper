@@ -1,0 +1,7 @@
+# folders
+videos/
+node_modules/
+# files
+.env
+app.js
+config.js
